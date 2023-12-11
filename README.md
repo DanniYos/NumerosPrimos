@@ -1,0 +1,2 @@
+# NumerosPrimos
+Prueba Tecnica
